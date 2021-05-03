@@ -60,7 +60,7 @@ nav ul li.items:after{
   bottom: 5px;
   height: 2px;
   width: 100%;
-  background: #33ffff;
+  background: #e76554;
   opacity: 0;
   transition: all 0.2s linear;
 }
@@ -83,7 +83,7 @@ nav ul li a{
   transition: .4s;
 }
 nav ul li:hover a{
-  color: cyan;
+  color: #e76554;
 }
 nav ul li i{
   font-size: 23px;
