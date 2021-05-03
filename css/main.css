@@ -23,8 +23,13 @@
   border-radius: 5px;
   text-align: center;
 }
+.btn-container .btn a{
+  text-decoration: none;
+  color: white;
+}
 .btn-container .btn:hover{
 border: 1.5px solid black;
+cursor: pointer;
 }
 nav{
   background: #151515;
